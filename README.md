@@ -1,4 +1,71 @@
-# Boilermaker
+ <p align="center">
+    🌿🍀🌳🌴🌵🌱
+  </p>        
+
+# PLANTAGRAM 
+---
+
+## Introduction 
+
+ <p align="center">
+An E-Commerce site that allows guests and users to purchase house plants. Guests can browse subcategories including seasons and living conditions while searching for the new perfect addition to their home.
+</p>
+
+---
+
+## Features
+
+- User can view a list of options 
+- User can choose a single plant 
+- User can filter for inventory of a specific season 
+- User can add items to a cart 
+- User can create an account to log in 
+- User can log in using Google account 
+- When the user is not logged in they may still alter shopping cart using local storage 
+- User my check out logged in or as a guest 
+- Admin can view each users information 
+
+
+---
+
+## Start
+
+Running `npm start` will make great things happen!
+
+### Tests
+
+To Check our Tests Run: `npm test`
+
+---
+
+## Deployment
+
+We deploy automatically, via continuous deployment with Travis 🚀
+
+Check it out: http://plantagram.herokuapp.com/
+
+---
+
+
+Created by: <br />
+☞ [Mariia](https://github.com/mariiaromaniuk) <br />
+☞ [Frederick](https://github.com/just-kwesi) <br />
+☞ [Kay](https://github.com/kyvycodes) <br />
+☞ [Ube](https://github.com/radical-ube) <br /> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Boilermaker
 
 _Good things come in pairs_
 
@@ -222,4 +289,4 @@ production server to be cluttered up with dev dependencies like
 `webpack`, but at the same time we don't want our development
 git-tracking to be cluttered with production build files like
 `bundle.js`! By doing these steps, we make sure our development and
-production environments both stay nice and clean!
+production environments both stay nice and clean! -->
