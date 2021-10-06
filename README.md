@@ -42,7 +42,9 @@ To Check our Tests Run: `npm test`
 
 We deploy automatically, via continuous deployment with Travis 🚀
 
-Check it out: http://plantagram.herokuapp.com/
+Check it out: http://plantagram.herokuapp.com/ <br />
+<br />
+*(the upkeep of this deployment now lives [here](https://github.com/kyvycodes/plantagram-app))*
 
 ---
 
